@@ -15,7 +15,6 @@ int main()
   char choice; 
   double starttemp;
   double endtemp;
-  double result;
 
   cout << fixed << showpoint << setprecision(1);
 
